@@ -1,5 +1,5 @@
 <!-- Section: Overview -->
-#Overview#
+## Overview
 # Nutella Project 🎉
 Welcome to **Nutella**, the sweetest GitHub project designed purely for fun and experimentation! Whether you're a developer with a sweet tooth or just looking to dip your fingers into some chocolatey code, you've come to the right place. 🍫✨
 ---
@@ -17,7 +17,7 @@ Think of it as your digital jar of Nutella — always there to make things bette
 ---
 
 <!-- Section: Installation -->
-#Installation#
+## Installation
 Getting started with Nutella is easier than spreading it on toast:
 
 1. Clone the repository:
@@ -39,7 +39,7 @@ Getting started with Nutella is easier than spreading it on toast:
   ```
 
 <!-- Section: Configuration -->
-#Configuration#
+## Configuration
 Nutella doesn't demand much — it’s a simple treat. However, if you want to customize your experience:
 1. Create a .nutellarc file in the root directory:
  ```json
