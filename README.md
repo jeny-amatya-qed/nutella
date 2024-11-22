@@ -1,5 +1,4 @@
 <!-- Section: Overview -->
-## Overview
 # Nutella Project 🎉
 Welcome to **Nutella**, the sweetest GitHub project designed purely for fun and experimentation! Whether you're a developer with a sweet tooth or just looking to dip your fingers into some chocolatey code, you've come to the right place. 🍫✨
 ---
